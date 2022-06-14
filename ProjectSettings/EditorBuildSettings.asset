@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 991ba94b3af044942a7197dffeb660d4
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Green Map.unity
+    guid: c93240f592fc60c4483897a2af1840fc
+  - enabled: 1
+    path: Assets/Scenes/Random Map 1.unity
+    guid: 308b8222bd91d304390241875ecc8324
+  - enabled: 1
+    path: Assets/Scenes/Random Map 2.unity
+    guid: cd130c56036e7434d8b05c986b95b6ff
+  - enabled: 1
+    path: Assets/Scenes/Random Map 3.unity
+    guid: 1f39f3586cd559f4c93a3c0e3106d833
+  - enabled: 1
+    path: Assets/Scenes/Random Map 4.unity
+    guid: dfcc63dd49f95e04590245fdb7fc23be
+  - enabled: 1
+    path: Assets/Scenes/Random Map 5.unity
+    guid: 2705d7d9f2505a649a0e6e967791f2e6
+  - enabled: 1
+    path: Assets/Scenes/Random Map 6.unity
+    guid: 715eaab9bf6abf64892a957b14db79c3
+  - enabled: 1
+    path: Assets/Scenes/Random Map 7.unity
+    guid: 90dd84056fb0d5347b4f559502f9b72f
+  - enabled: 1
+    path: Assets/Scenes/Random Map 8.unity
+    guid: 23a48fd13bf8b10448f3f63069abc429
+  - enabled: 1
+    path: Assets/Scenes/Random Map 9.unity
+    guid: 49445e8ed6f79c1409e5056358675453
+  - enabled: 1
+    path: Assets/Scenes/Random Map 10.unity
+    guid: 923ea6dfcd263e848a1717b5a418a02b
+  - enabled: 1
+    path: Assets/Scenes/Snow Map.unity
+    guid: ac3ab265a79e0974b9a96beb66d2b9e1
+  m_configObjects: {}
